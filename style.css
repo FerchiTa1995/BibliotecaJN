@@ -1,0 +1,190 @@
+
+body {
+    background: linear-gradient(rgba (3, 3, 3) rgba (7, 7,7)) ;
+    max-width: 1200px;
+}
+body {
+    justify-items: center;
+}
+* {color: white;}
+object {
+    width: 200px;
+    height: 200px;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+.presentacion {
+    text-align: center;
+    
+}
+
+.sado{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.sado .tsado{
+ display:flex;
+ width: 100%;
+ height: 40px;
+}
+
+.sado  div{
+    margin:20px 30px;
+}
+
+.esi{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.esi .tesi{
+    display:flex;
+    width: 100%;
+    height: 40px;   
+}
+
+.esi div{
+    margin:20px 30px;
+
+}
+
+.csdelatierra{
+    display: flex;
+    flex-wrap: wrap;
+ 
+}
+
+.csdelatierra .cs{
+    display:flex;
+    width: 100%;
+    height: 40px;   
+
+}
+.csdelatierra div{
+    margin:20px 30px;
+  
+}
+
+
+.ads {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.ads .tads {
+    display:flex;
+    width: 100%;
+    height: 40px;
+}
+
+.ads div {
+    margin:20px 30px;
+}
+.csNat{
+    display: flex;
+    flex-wrap: wrap;
+ 
+}
+
+.csNat .tcsn{
+    display:flex;
+    width: 100%;
+    height: 40px;   
+
+}
+.csNat div{
+    margin:20px 30px;
+  
+}
+
+
+.bio2{
+    display: flex;
+    flex-wrap: wrap;
+ 
+}
+
+.bio2 .tbio2{
+    display:flex;
+    width: 100%;
+    height: 40px;   
+
+}
+.bio2 div{
+    margin:20px 30px;
+  
+}
+
+
+.bio3{
+    display: flex;
+    flex-wrap: wrap;
+ 
+}
+
+.bio3 .tbio3{
+    display:flex;
+    width: 100%;
+    height: 40px;   
+
+}
+.bio3 div{
+    margin:20px 30px;
+  
+}
+
+
+.bio4{
+    display: flex;
+    flex-wrap: wrap;
+ 
+}
+
+.bio4 .tbio4{
+    display:flex;
+    width: 100%;
+    height: 40px;   
+
+}
+.bio4 div{
+    margin:20px 30px;
+  
+}
+
+
+.bio5{
+    display: flex;
+    flex-wrap: wrap;
+ 
+}
+
+.bio5 .tbio5{
+    display:flex;
+    width: 100%;
+    height: 40px;   
+
+}
+.bio5 div{
+    margin:20px 30px;
+  
+}
+
+.bio6{
+    display: flex;
+    flex-wrap: wrap;
+ 
+}
+
+.bio6 .tbio6{
+    display:flex;
+    width: 100%;
+    height: 40px;   
+
+}
+.bio6 div{
+    margin:20px 30px;
+  
+}
